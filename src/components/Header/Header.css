@@ -1,0 +1,13 @@
+nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    margin-right: 20px;
+}
+nav a:hover{
+    text-decoration: none;
+    color:  orange;
+    transition: 0.5s;
+    font-weight: 700;
+    margin-right: 20px;
+}
